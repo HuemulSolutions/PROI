@@ -23,14 +23,9 @@ PROI está en constante evolución. Puedes colaborar con el proyecto de las sigu
 
 ## 📬 Contacto y Soporte
 Si necesitas ayuda, puedes contactarnos en:
-- 📧 **Email:** soporte@huemulsolutions.com.com  
-- 🌐 **Sitio web:** [www.huemulsolutions.com/proi](https://www.proi.com)  
+- 📧 **Email:** ayuda@proi.ai
+- 🌐 **Sitio web:** [proi.ai](https://proi.ai)  
 - 📢 **LinkedIn:** [PROI Oficial](https://www.linkedin.com/company/proi)
-
----
-
-### 📜 Licencia
-Este proyecto está bajo la licencia **MIT**. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
 
 ---
 
